@@ -11,7 +11,7 @@
     "Active": true,
     "AwardType": "AddItem", 
     "Award": "urus_drone",
-    "Authenticity": "✔",
+    "Authenticity": "❗",
     "Description": "Дрон Urus",
     "MaxUses": 500,
     "InfusedPromoCode": false
